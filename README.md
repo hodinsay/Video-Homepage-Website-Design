@@ -18,4 +18,3 @@ A video website design showing a California beach. The website layout is respons
 
 Take a look at these couple examples that I have in my own portfolio:
 
-- **PS4 Website Design**: https://github.com/hodinsay/PS4-Website-Design
